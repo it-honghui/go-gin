@@ -1,0 +1,10 @@
+server:
+  port: 8080
+db:
+  host: 127.0.0.1
+  port: 3306
+  database: go-gin
+  user: root
+  password: 123456
+jwt:
+  secretKey: your_secret_key
